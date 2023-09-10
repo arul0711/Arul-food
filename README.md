@@ -1,7 +1,7 @@
-### Kimi Themes
-**Kimi Themes** is a responsive e-commerce or marketplace template. Based on **[Bootstrap 3](https://github.com/twbs/bootstrap)** framework. Fits to desktop HD, desktop, tablet and portrait. Check out the live preview on the link below.
+### ArulFood
+**ArulFood** is a responsive e-commerce or marketplace template. Based on **[Bootstrap 3](https://github.com/twbs/bootstrap)** framework. Fits to desktop HD, desktop, tablet and portrait. Check out the live preview on the link below.
 
-**Preview on [Kimi Themes](https://philipherlambang.github.io/kimi/)**
+**Preview on [ArulFood](https://philipherlambang.github.io/kimi/)**
 **Find and use it any way you want**
 
 
